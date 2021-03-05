@@ -1,13 +1,13 @@
 ## My Cheatsheet
 
-<p>Markdown is a `&lt;em&gt;text-to-html&lt;/em&gt;` conversion tool for writers.</p>
+If you want to mark something as code, indent it by 4 spaces.
 
-<blockquote>
-    <h2>Blockquoted header</h2>
+    <p>This has been indented 4 spaces.</p>
 
-    <p>This is blockquoted text.</p>
+This is *emphasized* _text_.
 
-    <p>This is a second paragraph within the blockquoted text.</p>
+# First-level heading
 
-</blockquote>
+#### Fourth-level heading
 
+This is an [example link](http://20min.ch/).
